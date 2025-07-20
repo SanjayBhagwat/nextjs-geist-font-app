@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764191143998",
+    "project_id": "myclassmates-9c93e",
+    "storage_bucket": "myclassmates-9c93e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764191143998:android:8fa2b0a9a9b9636f95796f",
+        "android_client_info": {
+          "package_name": "com.example.my_classmates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3y92YJg60Mq_OWi_BeO45h62nc57Ntvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
